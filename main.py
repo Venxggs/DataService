@@ -30,8 +30,8 @@ def run():
     app.run(host='0.0.0.0', port=port)
 
 # 2. KALITLARNI SHU YERGA YOZING
-TOKEN = '' 
-GEMINI_API_KEY = ''
+TOKEN = '8236421862:AAE-h3m-RFGvVfl6x8O8Wi5YkKNLVUGGLrw' 
+GEMINI_API_KEY = 'AIzaSyBDOUmmNJ89Qh6xziaHnpTDIkMN4g_h1_4'
 
 # Gemini AI sozlamalari
 genai.configure(api_key=GEMINI_API_KEY)
