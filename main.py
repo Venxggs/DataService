@@ -18,7 +18,7 @@ def run():
     app.run(host='0.0.0.0', port=port)
 
 # 2. SOZLAMALAR (Siz bergan kalitlar bilan)
-TOKEN = '8236421862:AAG5FnxWkS7Apb2-1GBzZAErl-QdQVcN4NA'
+TOKEN = '8236421862:AAHFFqHqv6X5HinHOdGXKndJYQ0dRaUs1BY'
 DEEPSEEK_API_KEY = 'sk-1de6581b14634a088eba8d8d2c0039b0'
 DEEPSEEK_API_URL = 'https://api.deepseek.com/v1/chat/completions'
 
